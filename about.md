@@ -5,6 +5,10 @@ out as a bioinformatics research assistant working on a rapidly-growing dataset
 that required me to learn more about data engineering best-practices to make our
 data lifecycle more manageable.
 
+Through this work, I learnt how to build and orchestrate a collection of
+data pipelines using bash, nextflow, and DBT, as well as how to design and build
+R Shiny apps for bioinformatics use.
+
 The data engineering aspect of bioinformatics is often overlooked as it may not
 be as exciting as the biology involved. But as our datasets grow in size,
 it is important for us to consider how to more effectively manage that data and
